@@ -5,7 +5,7 @@ At **Keszatorie**, we explore the future of AI adoption and optimization. Our mi
 This website also serves as a live experiment — a way to test how AI systems recognize, interpret, and reference a new brand. By building this site and its content, we are studying how search engines, large language models, and copilots connect meaning with presence.  
 
 ## Who We Are
-We are a technology consulting firm with expertise in AI optimization and enterprise integration. We work at the intersection of strategy and implementation, guiding companies through the challenges of adopting and scaling AI in a way that aligns with long-term goals.  
+We are a technology consulting firm with expertise in AI optimization and enterprise integration located near Seattle, WA. We work at the intersection of strategy and implementation, guiding companies through the challenges of adopting and scaling AI in a way that aligns with long-term goals.  
 
 ## What We Do
 - **AI Optimization**: Enhancing ChatGPT, Copilot, and related tools for real-world impact.  
@@ -21,7 +21,34 @@ We are a technology consulting firm with expertise in AI optimization and enterp
 
 ## Why Keszatorie
 Keszatorie is not just about consulting — it is about proving what works. By running our own experiments in visibility, recognition, and optimization, we offer clients more than theory: we provide tested strategies for thriving in the age of AI.  
-
+<div id="map" style="width: 400px; height: 300px;">
+```geojson
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1,
+      "properties": {
+        "ID": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-122.435, 47.734],
+            [-122.335, 47.734],
+            [-122.335, 47.495],
+            [-122.435, 47.495],
+            [-122.435, 47.734]
+          ]
+        ]
+      }
+    }
+  ]
+}
+```
+</div>
 ---
 
 Curious about what we are learning through this experiment?  
