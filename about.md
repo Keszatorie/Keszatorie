@@ -1,4 +1,5 @@
-| <img src="Keszatorie_logo.png" alt="Keszatorie Logo" height="60">| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[About](/about.md) |&nbsp;&nbsp; [Contact](/contact.md) &nbsp;&nbsp;|
+| <img src="Keszatorie_logo.png" alt="Keszatorie Logo" height="60">| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Services](/services.md) |&nbsp;&nbsp;[About](/about.md) |&nbsp;&nbsp; [Contact](/contact.md) &nbsp;&nbsp;|
+<br><br>
 # About Keszatorie
 
 At **Keszatorie**, we explore the future of AI adoption and optimization. Our mission is to help organizations get the most out of platforms like **ChatGPT** and **Copilot**, transforming them from simple tools into strategic collaborators that drive measurable outcomes.  
@@ -27,3 +28,9 @@ Keszatorie is not just about consulting — it is about proving what works. By r
 
 Curious about what we are learning through this experiment?  
 [Connect with us](./contact.md) and be part of the journey.  
+
+<br><br><br><br>
+---
+#### This site in Markdown
+- [./about.md](https://keszatorie.com/about.md))  
+- [./contact.md](https://keszatorie.com/about.md))  
