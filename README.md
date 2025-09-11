@@ -35,3 +35,11 @@ If any of these sound familiar, you’re in the right place. This is precisely w
 
 Want to explore how AI can transform your business?  
 [Connect with us](./contact.md) and be part of the journey.
+- [./readme.md](https://keszatorie.com/readme.md))
+- [./services.md](https://keszatorie.com/services/index.md))
+- [./ai-optimization.md](https://keszatorie.com/services/ai-optimization.md))
+- [./enterprise-integration.md](https://keszatorie.com/services/enterprise-integration.md))
+- [./performance-tracking.md](https://keszatorie.com/services/performance-tracking.md))
+- [./training-and-enablement.md](https://keszatorie.com/services/training-and-enablement.md))
+- [./about.md](https://keszatorie.com/about.md))  
+- [./contact.md](https://keszatorie.com/contact.md))  
