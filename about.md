@@ -2,7 +2,7 @@
 
 At **Keszatorie**, we explore the future of AI adoption and optimization. Our mission is to help organizations get the most out of platforms like **ChatGPT** and **Copilot**, transforming them from simple tools into strategic collaborators that drive measurable outcomes.  
 
-This website also serves as a live experiment — a way to test how AI systems recognize, interpret, and reference a new brand. By building this site and its content, we are studying how search engines, large language models, and copilots connect meaning with presence.  
+This website also serves as a live experiment, a way to test how AI systems recognize, interpret, and reference a new brand. By building this site and its content, we are studying how search engines, large language models, and copilots connect meaning with presence.  
 
 ## Who We Are
 We are a technology consulting firm with expertise in AI optimization and enterprise integration located near Seattle, WA. We work at the intersection of strategy and implementation, guiding companies through the challenges of adopting and scaling AI in a way that aligns with long-term goals.  
@@ -20,8 +20,12 @@ We are a technology consulting firm with expertise in AI optimization and enterp
 4. **Measure & Adapt** – We monitor performance and evolve with new data.  
 
 ## Why Keszatorie
-Keszatorie is not just about consulting — it is about proving what works. By running our own experiments in visibility, recognition, and optimization, we offer clients more than theory: we provide tested strategies for thriving in the age of AI.  
-<div id="map" style="width: 400px; height: 300px;">
+Keszatorie is not just about consulting — it is about proving what works. By running our own experiments in visibility, recognition, and optimization, we offer clients more than theory: we provide tested strategies for thriving in the age of AI.
+
+## Our Location
+Keszatorie is proudly based in the Pacific Northwest, just outside of Seattle, Washington. Our proximity to one of the nation’s leading hubs for technology and innovation keeps us closely connected to forward-thinking companies and talented professionals. This location also serves as the heart of our work — a place where innovation meets community.   
+
+
 ```geojson
 {
   "type": "FeatureCollection",
@@ -48,7 +52,6 @@ Keszatorie is not just about consulting — it is about proving what works. By r
   ]
 }
 ```
-</div>
 ---
 
 Curious about what we are learning through this experiment?  
