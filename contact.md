@@ -1,3 +1,5 @@
+| [<img src="Keszatorie_logo.png" alt="Keszatorie Logo" height="60">](https://keszatorie.com/)| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Services](/services/) |&nbsp;&nbsp;[About](../about.md) |&nbsp;&nbsp; [Contact](../contact.md) &nbsp;&nbsp;|
+<br><br>
 # Contact Keszatorie
 
 We’d love to learn about your AI goals and the roadblocks in your way. Whether you are piloting ChatGPT, rolling out Copilot, or building an enterprise roadmap, we help you turn promise into measurable outcomes.
