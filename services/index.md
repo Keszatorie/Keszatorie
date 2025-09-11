@@ -6,7 +6,7 @@ At **Keszatorie**, we specialize in helping organizations unlock the full value 
 
 ---
 
-| [AI Optimization](./services/ai-optimization.md) | [Enterprise Integration](./services/enterprise-integration.md) | [Performance Tracking](./services/performance-tracking.md) | [Training & Enablement](./services/training-and-enablement.md) |
+| [AI Optimization](ai-optimization.md) | [Enterprise Integration](enterprise-integration.md) | [Performance Tracking](performance-tracking.md) | [Training & Enablement](training-and-enablement.md) |
 |--------------------------------------------------|----------------------------------------------------------------|------------------------------------------------------------|----------------------------------------------------------------|
 | Fine-tuning ChatGPT, Copilot, and related AI platforms for maximum value. | Embedding AI seamlessly into existing workflows and tools. | Building dashboards and metrics to evaluate AI performance. | Guiding teams to confidently adopt and use AI in daily work. |
 | More accurate outputs, stronger adoption, better ROI on AI initiatives. | Increased efficiency and alignment with long-term goals. | Clear visibility into impact, easier reporting to leadership. | Empowered teams who know how to get the most from AI tools. |
