@@ -1,4 +1,4 @@
-| [<img src="Keszatorie_logo.png" alt="Keszatorie Logo" height="60">](https://keszatorie.com/)| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Services](/services/) |&nbsp;&nbsp;[About](../about.md) |&nbsp;&nbsp; [Contact](../contact.md) &nbsp;&nbsp;|
+| [<img src="../Keszatorie_logo.png" alt="Keszatorie Logo" height="60">](https://keszatorie.com/)| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Services](/services/) |&nbsp;&nbsp;[About](../about.md) |&nbsp;&nbsp; [Contact](../contact.md) &nbsp;&nbsp;|
 <br><br>
 
 # Training & Enablement
