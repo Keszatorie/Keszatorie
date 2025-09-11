@@ -20,14 +20,14 @@ If any of these sound familiar, you’re in the right place. This is precisely w
 
 ---
 
-## Our Services
+## [Our Services](./services/)
 
 | Service                  | Description                                                                 | Outcomes                                                                 |
 |--------------------------|-----------------------------------------------------------------------------|--------------------------------------------------------------------------|
-| **AI Optimization**      | Fine-tuning ChatGPT, Copilot, and related AI platforms for maximum value.   | More accurate outputs, stronger adoption, better ROI on AI initiatives.  |
-| **Enterprise Integration** | Embedding AI seamlessly into existing workflows and tools.                 | Increased efficiency and alignment with long-term goals.                 |
-| **Performance Tracking** | Building dashboards and metrics to evaluate AI performance.                 | Clear visibility into impact, easier reporting to leadership.            |
-| **Training & Enablement**| Guiding teams to confidently adopt and use AI in daily work.                | Empowered teams who know how to get the most from AI tools.              |
+| **[AI Optimization](./services/ai-optimization.md)**      | Fine-tuning ChatGPT, Copilot, and related AI platforms for maximum value.   | More accurate outputs, stronger adoption, better ROI on AI initiatives.  |
+| **[Enterprise Integration](./services/enterprise-integration.md)** | Embedding AI seamlessly into existing workflows and tools.                 | Increased efficiency and alignment with long-term goals.                 |
+| **[Performance Tracking](./services/performance-tracking.md)** | Building dashboards and metrics to evaluate AI performance.                 | Clear visibility into impact, easier reporting to leadership.            |
+| **[Training & Enablement](./services/training-and-enablement.md)**| Guiding teams to confidently adopt and use AI in daily work.                | Empowered teams who know how to get the most from AI tools.              |
 
 ---
 
