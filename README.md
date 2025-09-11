@@ -1,5 +1,5 @@
  ![Keszatorie Logo](./Keszatorie_logo-400.png) 
-# Keszatorie
+
 **AI Consulting & Optimization for ChatGPT and Copilot**
 
 Welcome to the official repository for the **Keszatorie** website.  
