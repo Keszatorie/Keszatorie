@@ -1,4 +1,4 @@
-| <img src="Keszatorie_logo.png" alt="Keszatorie Logo" height="60">| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Services](/services.md) |&nbsp;&nbsp;[About](/about.md) |&nbsp;&nbsp; [Contact](/contact.md) &nbsp;&nbsp;|
+| <img src="Keszatorie_logo.png" alt="Keszatorie Logo" height="60">| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Services](/services/) |&nbsp;&nbsp;[About](/about.md) |&nbsp;&nbsp; [Contact](/contact.md) &nbsp;&nbsp;|
 <br><br>
 # About Keszatorie
 
@@ -31,6 +31,12 @@ Curious about what we are learning through this experiment?
 
 <br><br><br><br>
 ---
-#### This site in Markdown
+#### This site is in Markdown
+- [./readme.md](https://keszatorie.com/readme.md))
+- [./services.md](https://keszatorie.com/services/index.md))
+- [./ai-optimization.md](https://keszatorie.com/services/ai-optimization.md))
+- [./enterprise-integration.md](https://keszatorie.com/services/enterprise-integration.md))
+- [./performance-tracking.md](https://keszatorie.com/services/performance-tracking.md))
+- [./training-and-enablement.md](https://keszatorie.com/services/training-and-enablement.md))
 - [./about.md](https://keszatorie.com/about.md))  
-- [./contact.md](https://keszatorie.com/about.md))  
+- [./contact.md](https://keszatorie.com/contact.md))  
