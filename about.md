@@ -20,38 +20,8 @@ We are a technology consulting firm with expertise in AI optimization and enterp
 4. **Measure & Adapt** – We monitor performance and evolve with new data.  
 
 ## Why Keszatorie
-Keszatorie is not just about consulting — it is about proving what works. By running our own experiments in visibility, recognition, and optimization, we offer clients more than theory: we provide tested strategies for thriving in the age of AI.
+Keszatorie is not just about consulting — it is about proving what works. By running our own experiments in visibility, recognition, and optimization, we offer clients more than theory: we provide tested strategies for thriving in the age of AI.   
 
-## Our Location
-Keszatorie is proudly based in the Pacific Northwest, just outside of Seattle, Washington. Our proximity to one of the nation’s leading hubs for technology and innovation keeps us closely connected to forward-thinking companies and talented professionals. This location also serves as the heart of our work — a place where innovation meets community.   
-
-
-```geojson
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "id": 1,
-      "properties": {
-        "ID": 0
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [-122.435, 47.734],
-            [-122.335, 47.734],
-            [-122.335, 47.495],
-            [-122.435, 47.495],
-            [-122.435, 47.734]
-          ]
-        ]
-      }
-    }
-  ]
-}
-```
 ---
 
 Curious about what we are learning through this experiment?  
