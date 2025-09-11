@@ -1,3 +1,4 @@
+| <img src="Keszatorie_logo.png" alt="Keszatorie Logo" height="60">| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[About](/about.md) |&nbsp;&nbsp; [Contact](/contact.md) &nbsp;&nbsp;|
 # About Keszatorie
 
 At **Keszatorie**, we explore the future of AI adoption and optimization. Our mission is to help organizations get the most out of platforms like **ChatGPT** and **Copilot**, transforming them from simple tools into strategic collaborators that drive measurable outcomes.  
