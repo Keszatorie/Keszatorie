@@ -1,3 +1,6 @@
+<link rel="icon" type="image/png" href="/favicon.png">
+
+ 
  ![Keszatorie Logo](./Keszatorie_logo-400.png) 
 
 # Keszatorie AI Consulting & Optimization for ChatGPT and Copilot
