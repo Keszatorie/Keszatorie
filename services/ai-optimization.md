@@ -1,7 +1,7 @@
-| <[<img src="../Keszatorie_logo.png" alt="Keszatorie Logo" height="60">](https://keszatorie.com/)| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Services](/services/) |&nbsp;&nbsp;[About](../about.md) |&nbsp;&nbsp; [Contact](../contact.md) &nbsp;&nbsp;|
+| [<img src="../Keszatorie_logo.png" alt="Keszatorie Logo" height="60">](https://keszatorie.com/)| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Services](/services/) |&nbsp;&nbsp;[About](../about.md) |&nbsp;&nbsp; [Contact](../contact.md) &nbsp;&nbsp;|
 <br><br>
 
-# AI Optimization
+# Keszatorie AI Optimization
 
 AI tools like **ChatGPT** and **Copilot** are powerful, but without structure, they can feel unpredictable, inconsistent, and difficult to measure. At **Keszatorie**, our AI Optimization service is designed to take the guesswork out of generative AI and turn it into a reliable partner in your workflows.
 
