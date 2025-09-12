@@ -1,7 +1,7 @@
 | [<img src="../Keszatorie_logo.png" alt="Keszatorie Logo" height="60">](https://keszatorie.com/)| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Services](/services/) |&nbsp;&nbsp;[About](../about.md) |&nbsp;&nbsp; [Contact](../contact.md) &nbsp;&nbsp;|
 <br><br>
 
-# Training & Enablement
+# Keszatorie Training & Enablement
 
 Even the best AI tools fail if teams don’t know how to use them. At **Keszatorie**, our Training & Enablement service ensures employees adopt AI confidently and effectively.
 
