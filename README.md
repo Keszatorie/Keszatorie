@@ -1,6 +1,6 @@
  ![Keszatorie Logo](./Keszatorie_logo-400.png) 
 
-**AI Consulting & Optimization for ChatGPT and Copilot**
+# Keszatorie AI Consulting & Optimization for ChatGPT and Copilot
 
 Welcome to the official repository for the **Keszatorie** website.  
 We help organizations adopt and optimize AI platforms like ChatGPT and Copilot, turning them into strategic collaborators that drive productivity, innovation, and measurable business outcomes.  
@@ -9,7 +9,7 @@ We help organizations adopt and optimize AI platforms like ChatGPT and Copilot, 
 
 ---
 
-### Are you excited about the potential of AI but struggling with questions like:  
+## Are you excited about the potential of AI but struggling with questions like:  
 
 - *“How do I get consistent, accurate results from ChatGPT or Copilot?”*  
 - *“How do I integrate AI into my existing workflows without breaking what already works?”*  
