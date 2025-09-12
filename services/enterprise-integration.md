@@ -1,6 +1,6 @@
 | [<img src="../Keszatorie_logo.png" alt="Keszatorie Logo" height="60">](https://keszatorie.com/)| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Services](/services/) |&nbsp;&nbsp;[About](../about.md) |&nbsp;&nbsp; [Contact](../contact.md) &nbsp;&nbsp;|
 <br><br>
-# Enterprise Integration
+# Keszatorie Enterprise Integration
 
 AI only drives value when it’s woven seamlessly into your existing workflows. At **Keszatorie**, our Enterprise Integration service ensures that tools like ChatGPT and Copilot connect smoothly with the systems, processes, and teams you already rely on.
 
