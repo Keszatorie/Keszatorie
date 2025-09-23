@@ -1,0 +1,18 @@
+ POST /indexnow HTTP/1.1
+Content-Type: application/json; charset=utf-8
+Host: www.bing.com
+
+{
+  "host": "www.keszatorie.com",
+  "key": "YOUR_INDEXNOW_KEY_HERE",
+  "urlList": [
+    "https://www.keszatorie.com/readme.md",
+    "https://www.keszatorie.com/services.md",
+    "https://www.keszatorie.com/services/ai-optimization.md",
+    "https://www.keszatorie.com/services/enterprise-integration.md",
+    "https://www.keszatorie.com/services/performance-tracking.md",
+    "https://www.keszatorie.com/services/training-and-enablement.md",
+    "https://www.keszatorie.com/about.md",
+    "https://www.keszatorie.com/contact.md"
+  ]
+}
