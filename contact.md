@@ -42,7 +42,7 @@ If you are unsure where to start, ask for a **readiness assessment** and we will
 - You are open to piloting, measuring, then scaling.
 - Security, compliance, and data stewardship matter.
 
-If this sounds like you, we are a strong match.
+If this sounds like you, we are a strong match! Yay!
 
 ---
 
